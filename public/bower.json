@@ -1,0 +1,27 @@
+{
+  "name": "bower.json",
+  "description": "public/libraries",
+  "main": "bower.json",
+  "authors": [
+    "Minas <minas-minasyan@mail.ru>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "font-awesome": "^4.7.0"
+
+  },
+  "resolutions": {
+    "jquery": ">=1.6"
+  }
+}
